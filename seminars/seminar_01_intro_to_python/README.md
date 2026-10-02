@@ -384,8 +384,8 @@ print("Эта строка выполняется всегда")  # уже вн�
 
 ### Практика
 
-Перейдите к разделу **Часть 4: Комментарии, отступы и ошибки** в файле
-[`exercises/intro_to_python_practice.md`](exercises/intro_to_python_practice.md#часть-4-комментарии-отступы-и-ошибки).
+Перейдите к разделу **Часть 4: Отступы и ошибки** в файле
+[`exercises/intro_to_python_practice.md`](exercises/intro_to_python_practice.md#часть-4-отступы-и-ошибки).
 
 ---
 
