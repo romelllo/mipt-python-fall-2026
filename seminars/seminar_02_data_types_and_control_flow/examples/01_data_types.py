@@ -70,16 +70,22 @@ print("Привет" == "привет")  # False — регистр имеет �
 
 sunny = True
 warm = False
+rainy = False
 
-print(sunny and warm)  # False — нужно, чтобы были истинны оба
-print(sunny or warm)  # True  — достаточно одного
-print(not sunny)  # False — отрицание
+print(sunny and warm)  # False — для and нужны истинными оба
+print(warm and sunny)  # False — порядок не важен
+print(sunny or warm)  # True  — для or достаточно одного
+print(warm or rainy)  # False — оба условия ложны
+print(not sunny)  # False — отрицание True
+print(not warm)  # True  — отрицание False
 
 has_ticket = True
+is_vip = False
 is_adult = age >= 18
 
-print("Пускаем на сеанс:", is_adult and has_ticket)
-print("Нужна проверка:", not is_adult or not has_ticket)
+print("Пускаем на сеанс:", is_adult and has_ticket)  # True
+print("Пускаем в VIP-зал:", is_adult and is_vip)  # False — нет VIP-статуса
+print("Нужна проверка:", not is_adult or not has_ticket)  # False — всё в порядке
 
 # =============================================================================
 # Оператор in
