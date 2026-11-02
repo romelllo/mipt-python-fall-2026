@@ -1,7 +1,7 @@
 # Семинар 6: Наследование
 
 **Модуль:** 1 — Основы программирования на Python  
-**Дата:** 02.11.2026, 18:40–20:10  
+**Дата:** 03.11.2026, 18:40–20:10  
 **Презентация:** [ссылка](https://docs.google.com/presentation/d/1cMGdCNHVatRLFeT_CPgG9qmOrM0gnz9Idb4HPT_-t70/edit?usp=sharing)
 
 ---
