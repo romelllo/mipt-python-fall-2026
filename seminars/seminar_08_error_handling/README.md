@@ -2,7 +2,7 @@
 
 **Модуль:** 1 — Основы программирования на Python  
 **Дата:** 16.11.2026, 18:40–20:10  
-**Презентация:** _ссылка будет добавлена_
+**Презентация:** [ссылка](https://docs.google.com/presentation/d/1c3IsOq_--m9i47e4qxXNfjjfBz2qKBnIwb_0GvkIslQ/edit?usp=sharing)
 
 ---
 
