@@ -22,7 +22,7 @@
 | 3 | [Коллекции](./seminars/seminar_03_collections/) | 12.10.2026 | list, tuple, dict, set, срезы, comprehensions |
 | 4 | [Функции](./seminars/seminar_04_functions/) | 19.10.2026 | Аргументы, возвращаемые значения, области видимости |
 | 5 | [Работа с файлами. Классы и объекты](./seminars/seminar_05_files_and_classes/) | 26.10.2026 | open, контекстные менеджеры, class, атрибуты, методы |
-| 6 | [Наследование](./seminars/seminar_06_inheritance/) | 02.11.2026 | Базовые и производные классы, super(), MRO |
+| 6 | [Наследование](./seminars/seminar_06_inheritance/) | 03.11.2026 | Базовые и производные классы, super(), MRO |
 | 7 | [Специальные методы классов. Механизм работы классов](./seminars/seminar_07_special_methods/) | 09.11.2026 | Dunder-методы, свойства, устройство классов |
 | 8 | [Работа с ошибками](./seminars/seminar_08_error_handling/) | 16.11.2026 | Исключения, try/except/finally, свои исключения |
 | 9 | [Установка внешних библиотек. Виртуальные окружения. Работа с Git](./seminars/seminar_09_packages_venv_git/) | 23.11.2026 | pip, uv, venv, git, GitHub |
