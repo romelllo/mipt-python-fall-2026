@@ -34,7 +34,7 @@ random.seed(42)
 second = [random.randint(1, 100) for _ in range(3)]
 print(first == second)  # True
 
-# Раз числа предсказуемы, для паролей и токенов random не годится.
+# Раз числа предсказуемы, для паролей и токенов random не используют.
 # Для секретов есть модуль secrets:
 print(secrets.token_hex(8))  # например, '3f9a1c0be27d4e65'
 
