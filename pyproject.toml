@@ -9,7 +9,10 @@ authors = [{ name = "MIPT Python Course" }]
 
 # Курс построен на стандартной библиотеке Python.
 # Внешние зависимости добавляются по мере необходимости: uv add <package>
-dependencies = []
+dependencies = [
+    "flask>=3.1.3",
+    "httpx>=0.29.0",
+]
 
 [project.optional-dependencies]
 dev = [
